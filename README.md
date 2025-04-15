@@ -80,6 +80,7 @@ Power BI report available in the /dashboard/ folder. Import into Power BI Deskto
 
 # Acknowledgements
 Dataset: Kaggle - Google Play Store Apps
+
 Inspiration: Viral growth patterns and app marketing strategies.
 
 # Author
