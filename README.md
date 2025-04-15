@@ -1,6 +1,6 @@
 # Discovering the DNA of Viral Apps
 
-Uncover what makes an app go viral on the Google Play Store using data science techniques like clustering, PCA, and interactive visualizations.
+* Uncover what makes an app go viral on the Google Play Store using data science techniques like clustering, PCA, and interactive visualizations.
 
 # Overview
 
@@ -8,7 +8,7 @@ This project analyzes the Google Play Store dataset to extract key features that
 
 # Objectives
 
-Identify the features that drive app virality.
+ Identify the features that drive app virality.
 
 Create standardized metrics for Virality and Engagement.
 
