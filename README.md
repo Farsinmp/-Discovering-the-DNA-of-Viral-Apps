@@ -1,4 +1,4 @@
-#📱 Discovering the DNA of Viral Apps
+#Discovering the DNA of Viral Apps
 
 Uncover what makes an app go viral on the Google Play Store using data science techniques like clustering, PCA, and interactive visualizations.
 
