@@ -2,11 +2,11 @@
 
 Uncover what makes an app go viral on the Google Play Store using data science techniques like clustering, PCA, and interactive visualizations.
 
-#🔍 Overview
+# Overview
 
 This project analyzes the Google Play Store dataset to extract key features that contribute to an app's virality. By engineering features such as Virality Score and Engagement Score, and applying clustering techniques, we categorize apps into various virality levels. The insights are presented through a Streamlit web app and a Power BI dashboard.
 
-#🎯 Objectives
+# Objectives
 
 Identify the features that drive app virality.
 
@@ -20,7 +20,7 @@ Build a Streamlit app to interactively explore insights.
 
 Develop a Power BI dashboard for high-level business understanding.
 
-#🛠️ Tech Stack
+# Tech Stack
 
 Tool	Purpose
 Python	Core data processing & ML
@@ -30,7 +30,7 @@ Scikit-learn	Clustering, PCA
 Streamlit	Web app deployment
 Power BI	Dashboard and data storytelling
 Jupyter Notebook	Development environment
-#🧪 Methodology
+# Methodology
 Data Cleaning: Removed duplicates, handled missing values, and converted data types.
 
 Feature Engineering:
@@ -57,7 +57,7 @@ Developed an interactive Streamlit dashboard.
 
 Created Power BI reports for strategic insights.
 
-#📊 Power BI Dashboard
+# Power BI Dashboard
 Power BI report available in the /dashboard/ folder. Import into Power BI Desktop to explore:
 
 Virality vs. Engagement trends
@@ -67,18 +67,18 @@ Free vs. Paid apps analysis
 Cluster-wise app distribution
 
 Top-performing apps by category
-#📌 Future Enhancements
+# Future Enhancements
 Add model to predict virality score for new apps
 
 Integrate real-time Google Play data (via scraping/API)
 
 Deploy on cloud (Heroku/Streamlit Cloud)
 
-#🙌 Acknowledgements
+# Acknowledgements
 Dataset: Kaggle - Google Play Store Apps
 Inspiration: Viral growth patterns and app marketing strategies.
 
-#🧑‍💻 Author
+# Author
 Muhammed Farsin MP
 Machine Learning Developer | Data Enthusiast | Passionate about Trading
 📍 Kerala, India
